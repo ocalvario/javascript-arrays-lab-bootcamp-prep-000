@@ -31,3 +31,6 @@ function prependKitten (name) {
   return secondKitty
 }
 
+function removeLastKitten () {
+  
+}
