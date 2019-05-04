@@ -28,5 +28,5 @@ function appendKitten(name) {
 
 function prependKitten (name) {
   var secondKitty = [name, ... kittens]
-  return secondKity
+  return secondKitty
 }
